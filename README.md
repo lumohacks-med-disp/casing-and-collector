@@ -4,7 +4,12 @@ Stereolithography (STL) schematics of the physical casing and collector for the 
 
 ## 3-D Model Previews
 
-You can view the 3-D models for the casing [here](stl/casing.STL) and the collector [here](stl/collector.STL).
+You can view and manipulate the 3-D models on GitHub here:
+
+* [Casing](stl/casing.STL)
+* [Collector](stl/collector.STL)
+* [Bottle slider](stl/bottle-slider.STL)
+* [Stabilizer](stl/stabilizer.STL)
 
 ## Image Previews
 
@@ -15,3 +20,11 @@ You can view the 3-D models for the casing [here](stl/casing.STL) and the collec
 ### Collector
 
 ![Image of collector](png/collector.png)
+
+### Bottle Slider
+
+![Image of bottle slider](png/bottle-slider.png)
+
+### Stabilizer
+
+![Image of stabilizer](png/stabilizer.png)
