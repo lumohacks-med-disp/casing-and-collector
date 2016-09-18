@@ -4,7 +4,7 @@ Stereolithography (STL) schematics of the physical casing and collector for the 
 
 ## 3-D Model Previews
 
-You can view the 3-D models for the casing [here](stl/casing.STL) and the collector [here](stl/casing.STL).
+You can view the 3-D models for the casing [here](stl/casing.STL) and the collector [here](stl/collector.STL).
 
 ## Image Previews
 
